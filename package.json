@@ -1,0 +1,15 @@
+{
+  "name": "thugkeed-xmd-v2",
+  "version": "2.0.0",
+  "description": "THUGKEED-XMD-V2 WhatsApp bot with pair site integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "yt3": "^1.0.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.1.4"
+  }
+}
